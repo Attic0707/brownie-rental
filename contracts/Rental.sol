@@ -77,3 +77,5 @@ contract Rental {
         return uint256(result * 10000000000); //2702
     }
 }
+
+// Sepolia ETH/USD PriceFeedAddress = 0x694AA1769357215DE4FAC081bf1f309aDC325306
